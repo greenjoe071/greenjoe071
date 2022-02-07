@@ -1,4 +1,4 @@
-[![git-hub-header.jpg](https://i.postimg.cc/YCycQ65w/git-hub-header.jpg)](https://postimg.cc/0zmHsw5t)
+[![Screenshot-2022-02-06-233729-2.jpg](https://i.postimg.cc/pLzmwWK9/Screenshot-2022-02-06-233729-2.jpg)](https://postimg.cc/SnQQ8pTq)
 
 ### Hi there!  Let's be friends?👋
 

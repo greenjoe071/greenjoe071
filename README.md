@@ -4,8 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenjoe071)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenjoe071&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on my Final Project for my Bootcamp with Woz-U
-- 🌱 I’m currently learning and learning and learning.  Mostly learning a lot about deploymnent at the moment.
+- 🔭 I finished my Full Stack Bootcamp with Woz-U
+- 🌱 I’m currently building full stack mobile apps, check my repository
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/joe-morales-6aa3571b8)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My left foot is one half size bigger than my right.
